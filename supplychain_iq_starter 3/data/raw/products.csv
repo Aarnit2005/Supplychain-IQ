@@ -1,0 +1,16 @@
+product_id,product_name,category,unit_cost,reorder_level
+P001,Sterile Tubing,Components,187.56,56
+P002,Sensor Module,Electronics,109.82,38
+P003,Control Board,Electronics,207.19,27
+P004,Power Adapter,Electrical,169.79,64
+P005,Valve Assembly,Components,29.85,91
+P006,Medical Cable,Components,234.34,25
+P007,Pump Component,Components,184.58,88
+P008,Display Unit,Electronics,190.37,86
+P009,Battery Pack,Electrical,37.72,42
+P010,Filter Cartridge,Consumables,112.49,70
+P011,Connector Set,Components,94.03,33
+P012,Cooling Fan,Electrical,223.01,80
+P013,Pressure Sensor,Electronics,157.38,76
+P014,Mounting Bracket,Components,198.88,48
+P015,Packaging Kit,Packaging,110.87,25

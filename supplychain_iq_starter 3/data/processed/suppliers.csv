@@ -1,0 +1,6 @@
+supplier_id,supplier_name,supplier_region,standard_lead_time_days
+S01,Northstar Components,South,5
+S02,Precision Supply Co,West,7
+S03,MedTech Materials,North,6
+S04,Apex Industrial,East,9
+S05,BlueWave Logistics,Central,4
